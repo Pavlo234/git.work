@@ -32,3 +32,5 @@ print(get_los_angeles_points(pt))
 op = 'ood sdsd aaa'
 kl = op.split()
 print(kl[2])
+
+p = 90
