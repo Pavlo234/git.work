@@ -37,3 +37,16 @@ def unique_in_order(kl):
 ["LosAngeles", "527:520"]
 ["Los Angeles Atomic ", "494:458"]
 ["Los Angeles", "469:460"]
+
+
+arr = [1,2,3,4,5,6,7,8]
+ppoopoppo = 1
+
+arr = [1,2,3,4,5,6,7,8]
+ppoopoppo = 1
+
+arr = [1,2,3,4,5,6,7,8]
+ppoopoppo = 1
+
+arr = [1,2,3,4,5,6,7,8]
+ppoopoppo = 1
